@@ -18,6 +18,7 @@ end
 
 def remove_element_from_end_of_array(array)
   array = []
+  array << "arrays!"
   array.pop("arrays!")
   
 end
